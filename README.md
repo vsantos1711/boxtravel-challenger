@@ -1,5 +1,5 @@
 # boxtravel-challenger
-## Teste de Programação Desenvolvedor Facilita Jurídico
+## Teste de Programação Desenvolvedor XXXX Nível SR
 
 Este teste tem como objetivo avaliar suas habilidades em programação. Certifique-se de entender os requisitos antes de começar a codificar. Utilize o ambiente de desenvolvimento que se sentir mais confortável. Comente o código conforme necessário para explicar sua lógica. Não hesite em pedir esclarecimentos caso algo não esteja claro.
 Após finalizar, grave um vídeo, de até 5 minutos, explicando o que foi desenvolvido.
@@ -13,7 +13,7 @@ Uma empresa que realiza limpeza em residências enfrenta desafios no gerenciamen
 
     A empresa utiliza as seguintes informações para gerenciar seus clientes: **nome**, **email** e **telefone**.
 
-  Na plataforma criada deve ser possível:
+Na plataforma criada deve ser possível:
           
   - **Listar** os seus clientes e **filtrar** com base nas informações cadastradas
   - **Cadastrar** clientes novos
@@ -31,7 +31,7 @@ Ao desenvolver essa segunda parte, altere a rota de cadastro e visualização pa
 
 ## Observações gerais
 
-Suba o código e o vídeo em um repositório público no github e envie o link para o seguinte e-mail: vitor.rodrigues@facilitajuridico.com. Deixe claro no readme do seu projeto como rodar o projeto localmente e qual a versão das ferramentas utilizadas.
+Suba o código e o vídeo em um repositório público no github e envie o link para o seguinte e-mail: xxxx@gmail.com. Deixe claro no readme do seu projeto como rodar o projeto localmente e qual a versão das ferramentas utilizadas.
 
 O prazo para realização do teste será de 3 dias.
 	
